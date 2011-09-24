@@ -1,0 +1,57 @@
+craftresult_is_preview = true
+hp = 20
+name = saschakb
+pitch = -3.71
+position = (11772.2,231.31,3210.88)
+version = 1
+yaw = 308.27
+PlayerArgsEnd
+List main 32
+Item ToolItem STSword 0
+Item ToolItem MesePick 44443
+Item MaterialItem2 2062 17
+Item MaterialItem2 3 48
+Item ToolItem STAxe 27077
+Item MaterialItem2 2050 81
+Empty
+Item MaterialItem2 31 8
+Item MaterialItem2 21 1
+Item CraftItem lump_of_iron 37
+Empty
+Item MaterialItem2 2069 73
+Item CraftItem apple 4
+Item ToolItem STShovel 49528
+Item MaterialItem2 2054 1
+Item MaterialItem2 2061 4
+Item MaterialItem2 2049 15
+Item MaterialItem2 3 13
+Item MaterialItem2 2070 11
+Item CraftItem lump_of_coal 58
+Item MaterialItem2 2060 2
+Empty
+Empty
+Empty
+Empty
+Item MaterialItem2 2053 7
+Item MaterialItem2 2057 84
+Item CraftItem lump_of_clay 36
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Item CraftItem Stick 1
+Empty
+Item CraftItem Stick 1
+Empty
+Empty
+Item CraftItem Stick 1
+Empty
+Empty
+Item CraftItem Stick 1
+EndInventoryList
+List craftresult 1
+Empty
+EndInventoryList
+EndInventory

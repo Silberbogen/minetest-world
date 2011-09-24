@@ -1,0 +1,57 @@
+craftresult_is_preview = true
+hp = 20
+name = silvia
+pitch = -46.49
+position = (299.74,65,7661.6)
+version = 1
+yaw = -10.2
+PlayerArgsEnd
+List main 32
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftresult 1
+Empty
+EndInventoryList
+EndInventory
