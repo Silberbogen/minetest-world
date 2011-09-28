@@ -1,10 +1,10 @@
 craftresult_is_preview = true
 hp = 20
 name = saschakb
-pitch = 11.89
-position = (2422.23,150.77,-158.11)
+pitch = 10.9
+position = (2900.73,105,423.38)
 version = 1
-yaw = -352.18
+yaw = -336.97
 PlayerArgsEnd
 List main 32
 Item ToolItem STSword 0
