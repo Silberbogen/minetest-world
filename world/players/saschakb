@@ -1,38 +1,38 @@
 craftresult_is_preview = true
 hp = 20
 name = saschakb
-pitch = 10.9
-position = (2900.73,105,423.38)
+pitch = 16.49
+position = (3089.08,183.75,304.81)
 version = 1
-yaw = -336.97
+yaw = -264.95
 PlayerArgsEnd
 List main 32
 Item ToolItem STSword 0
-Item ToolItem MesePick 36260
-Empty
-Item ToolItem STAxe 20997
-Item CraftItem lump_of_coal 38
-Item ToolItem STShovel 49528
-Empty
-Item MaterialItem2 2062 38
+Item ToolItem SteelPick 34888
+Item MaterialItem2 3 3
+Item ToolItem SteelShovel 57351
+Item ToolItem SteelAxe 4265
+Item MaterialItem2 2058 99
+Item CraftItem lump_of_iron 4
+Item MaterialItem2 31 12
 Item MaterialItem2 21 6
-Item MaterialItem2 2056 33
-Item MaterialItem2 2057 11
-Item ToolItem MesePick 0
+Item CraftItem Stick 90
+Item MaterialItem2 2054 2
+Item CraftItem lump_of_coal 33
 Item CraftItem apple 22
-Item MaterialItem2 2058 67
-Item CraftItem Stick 88
-Item MaterialItem2 31 23
-Item MaterialItem2 2049 15
-Item MaterialItem2 2050 99
-Item CraftItem lump_of_iron 26
-Item MaterialItem2 2050 15
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
+Item MaterialItem2 2062 55
+Item MaterialItem2 2056 37
+Item MaterialItem2 2049 47
+Item CraftItem steel_ingot 21
+Item MaterialItem2 2058 99
+Item MaterialItem2 2058 99
+Item MaterialItem2 2058 74
+Item MaterialItem2 2057 99
+Item MaterialItem2 2053 99
+Item MaterialItem2 2053 99
+Item MaterialItem2 2069 1
+Item MaterialItem2 2053 96
+Item MaterialItem2 2057 5
 Empty
 Empty
 Empty
