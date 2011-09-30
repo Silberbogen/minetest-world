@@ -1,29 +1,29 @@
 craftresult_is_preview = true
 hp = 20
 name = silvia
-pitch = -74.09
-position = (1365.1,15,1313.12)
+pitch = -3.09
+position = (-819.14,35,1182.74)
 version = 1
-yaw = -5.99
+yaw = -40.3301
 PlayerArgsEnd
 List main 32
-Item ToolItem MesePick 0
+Item ToolItem MesePick 25676
+Item MaterialItem2 2058 54
+Item CraftItem lump_of_iron 10
+Item MaterialItem2 2057 8
+Item MaterialItem2 3 52
+Item MaterialItem2 2060 14
+Item MaterialItem2 2066 1
 Empty
 Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
+Item CraftItem lump_of_clay 99
+Item MaterialItem2 2057 99
+Item MaterialItem2 2062 47
+Item CraftItem lump_of_clay 42
+Item MaterialItem2 2056 8
+Item CraftItem lump_of_clay 99
+Item CraftItem lump_of_coal 13
+Item MaterialItem2 2049 5
 Empty
 Empty
 Empty
