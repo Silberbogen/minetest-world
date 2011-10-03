@@ -1,10 +1,10 @@
 craftresult_is_preview = true
 hp = 20
 name = silvia
-pitch = -3.09
-position = (-819.14,35,1182.74)
+pitch = -37.9
+position = (2860.4,124.2,-5451.76)
 version = 1
-yaw = -40.3301
+yaw = -136.12
 PlayerArgsEnd
 List main 32
 Item ToolItem MesePick 25676
