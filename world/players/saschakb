@@ -1,25 +1,25 @@
 craftresult_is_preview = true
 hp = 20
 name = saschakb
-pitch = 18.1
-position = (29568.8,82.51,-414.43)
+pitch = 10.1
+position = (201.22,20.26,-1150.04)
 version = 1
-yaw = -326.31
+yaw = 102.43
 PlayerArgsEnd
 List main 32
-Item MaterialItem2 31 58
-Item ToolItem MesePick 29596
-Item MaterialItem2 2060 10
+Item MaterialItem2 31 42
+Item ToolItem MesePick 54978
+Item MaterialItem2 2057 96
 Item ToolItem STShovel 43600
 Item ToolItem STPick 26200
-Item MaterialItem2 2050 14
+Item MaterialItem2 2050 99
 Item MaterialItem2 2058 97
-Item MaterialItem2 2057 96
-Item CraftItem lump_of_coal 89
 Empty
+Item CraftItem lump_of_coal 89
+Item MaterialItem2 2049 54
 Item CraftItem lump_of_iron 18
 Item ToolItem SteelAxe 46991
-Item MaterialItem2 2053 45
+Item MaterialItem2 2053 55
 Item MaterialItem2 2058 34
 Item CraftItem lump_of_clay 99
 Item CraftItem lump_of_clay 99
@@ -30,14 +30,14 @@ Item MaterialItem2 2069 1
 Item MaterialItem2 2062 23
 Item CraftItem lump_of_clay 99
 Item CraftItem lump_of_clay 57
-Empty
-Empty
-Empty
-Empty
-Empty
+Item MaterialItem2 2060 10
+Item MaterialItem2 2050 99
+Item MaterialItem2 2050 99
+Item CraftItem apple 12
+Item MaterialItem2 2050 99
 Item CraftItem Stick 2
 Item MaterialItem2 2056 30
-Empty
+Item MaterialItem2 2050 57
 Empty
 EndInventoryList
 List craft 9
