@@ -1,3 +1,6 @@
-game_time = 528711
-time_of_day = 6730
+clans-deleted = 56087 
+clans-maxId = 0
+clans-names = 
+game_time = 537543
+time_of_day = 18903
 EnvArgsEnd
