@@ -1,6 +1,6 @@
 clans-deleted = 56087 
 clans-maxId = 0
 clans-names = 
-game_time = 537543
-time_of_day = 18903
+game_time = 547239
+time_of_day = 13537
 EnvArgsEnd
