@@ -3,10 +3,10 @@ clans =
 craftresult_is_preview = true
 hp = 20
 name = silvia
-pitch = -37.9
-position = (2860.4,124.2,-5451.76)
+pitch = 24.88
+position = (29914.4,114.15,28175.7)
 version = 1
-yaw = -136.12
+yaw = 97.09
 PlayerArgsEnd
 List main 32
 Item ToolItem MesePick 25676
