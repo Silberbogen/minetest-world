@@ -1,6 +1,6 @@
 clans-deleted = 56087 
 clans-maxId = 1
 clans-names = 1 saschakb 
-game_time = 626912
-time_of_day = 17094
+game_time = 634369
+time_of_day = 22
 EnvArgsEnd
