@@ -3,43 +3,43 @@ clans = 1
 craftresult_is_preview = true
 hp = 20
 name = saschakb
-pitch = 28.49
-position = (375.43,684.37,1149.03)
+pitch = -0.71
+position = (5428.47,96.8,-3894.67)
 version = 1
-yaw = -161.59
+yaw = 6.63
 PlayerArgsEnd
 List main 32
-Item ToolItem MesePick 31605
-Item MaterialItem2 2062 48
-Item MaterialItem2 3 79
-Item ToolItem STShovel 2616
-Item ToolItem STAxe 5658
-Item MaterialItem2 2053 99
-Item MaterialItem2 2050 2
-Item MaterialItem2 2050 99
-Item MaterialItem2 2056 11
-Item MaterialItem2 2049 57
-Item MaterialItem2 2061 41
+Item ToolItem WPick 38220
+Item MaterialItem2 2070 12
+Item MaterialItem2 3 68
+Item MaterialItem2 2080 3
+Item MaterialItem2 2050 46
+Item MaterialItem2 2053 15
+Item MaterialItem2 2069 93
+Item MaterialItem2 31 22
+Item CraftItem lump_of_coal 40
+Item MaterialItem2 2058 15
+Item CraftItem Stick 16
 Item CraftItem lump_of_iron 99
-Item MaterialItem2 2080 1
+Item ToolItem STShovel 2616
+Item MaterialItem2 2069 41
+Item MaterialItem2 2049 33
 Empty
-Item MaterialItem2 2053 99
-Item MaterialItem2 2057 95
-Item MaterialItem2 2053 99
+Empty
 Item CraftItem lump_of_clay 76
+Empty
+Item CraftItem lump_of_iron 17
+Empty
+Empty
+Empty
 Item MaterialItem2 2053 99
-Item CraftItem lump_of_iron 13
-Item MaterialItem2 2053 99
+Item CraftItem rat 3
+Empty
+Empty
+Empty
+Empty
 Item MaterialItem2 2050 99
-Item MaterialItem2 2053 99
-Item MaterialItem2 2053 56
-Item CraftItem rat 1
-Item MaterialItem2 2053 99
-Empty
-Empty
-Empty
-Empty
-Empty
+Item MaterialItem2 2057 56
 Empty
 EndInventoryList
 List craft 9
@@ -47,13 +47,13 @@ Empty
 Empty
 Empty
 Empty
-Item CraftItem lump_of_coal 40
 Empty
 Empty
-Item CraftItem Stick 72
+Empty
+Empty
 Empty
 EndInventoryList
 List craftresult 1
-Item MaterialItem2 3 4
+Empty
 EndInventoryList
 EndInventory
