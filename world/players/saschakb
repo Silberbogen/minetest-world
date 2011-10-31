@@ -1,34 +1,35 @@
 clanOwner = 1
 clans = 1 
+clansModerator = 
 craftresult_is_preview = true
 hp = 20
 name = saschakb
-pitch = 20.89
-position = (3502.27,188.7,-5823.72)
+pitch = 9.9
+position = (1681.84,255,3612.45)
 version = 1
-yaw = 57.01
+yaw = -52.5801
 PlayerArgsEnd
 List main 32
-Item ToolItem MesePick 5733
+Item ToolItem MesePick 8869
 Item MaterialItem2 2056 91
 Item MaterialItem2 3 49
 Item MaterialItem2 2058 6
 Item ToolItem WPick 42370
-Item MaterialItem2 2053 23
-Item MaterialItem2 2069 93
+Item MaterialItem2 2053 44
+Item MaterialItem2 2069 99
 Item MaterialItem2 31 22
 Item CraftItem lump_of_coal 40
 Item MaterialItem2 2057 31
 Item ToolItem STAxe 0
 Item ToolItem MesePick 0
 Item ToolItem STShovel 2616
-Item MaterialItem2 2069 41
+Item MaterialItem2 2069 55
 Item CraftItem Stick 14
 Item ToolItem MesePick 0
 Item ToolItem MesePick 0
 Item CraftItem lump_of_clay 76
 Item ToolItem MesePick 0
-Item MaterialItem2 2070 12
+Item MaterialItem2 2070 35
 Empty
 Empty
 Empty
