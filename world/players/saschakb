@@ -4,10 +4,10 @@ clansModerator =
 craftresult_is_preview = true
 hp = 20
 name = saschakb
-pitch = 34.9
-position = (-6121.31,893.21,-6264.89)
+pitch = 13.29
+position = (1706.81,25,-5781.62)
 version = 1
-yaw = -108.78
+yaw = -336.97
 PlayerArgsEnd
 List main 32
 Item ToolItem MesePick 44737
