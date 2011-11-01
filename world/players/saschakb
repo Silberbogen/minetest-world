@@ -4,44 +4,44 @@ clansModerator =
 craftresult_is_preview = true
 hp = 20
 name = saschakb
-pitch = 13.69
-position = (-5871.64,236.8,-6321.26)
+pitch = 34.9
+position = (-6121.31,893.21,-6264.89)
 version = 1
-yaw = -92.98
+yaw = -108.78
 PlayerArgsEnd
 List main 32
-Item ToolItem MesePick 42679
-Item MaterialItem2 2062 51
+Item ToolItem MesePick 44737
+Item CraftItem Stick 9
 Item MaterialItem2 2058 53
 Item MaterialItem2 2069 1
-Item MaterialItem2 2066 4
+Item MaterialItem2 2066 3
 Item MaterialItem2 3 69
-Empty
-Item MaterialItem2 31 8
-Item MaterialItem2 2053 99
-Item MaterialItem2 2057 80
-Empty
-Item CraftItem lump_of_coal 18
-Item CraftItem lump_of_coal 14
-Item CraftItem Stick 4
-Item MaterialItem2 2054 9
-Item MaterialItem2 2062 99
-Empty
-Empty
-Empty
-Item MaterialItem2 2070 35
-Item MaterialItem2 2062 99
-Item MaterialItem2 2056 54
-Item MaterialItem2 2049 99
+Item CraftItem Stick 69
+Item MaterialItem2 31 7
 Item MaterialItem2 2050 83
+Item MaterialItem2 2057 85
+Item ToolItem MesePick 0
+Item CraftItem lump_of_coal 32
+Item ToolItem MesePick 0
+Item CraftItem Stick 9
+Item MaterialItem2 2054 9
+Item MaterialItem2 2056 4
+Item MaterialItem2 2062 51
+Item MaterialItem2 2053 80
 Item CraftItem rat 4
-Item MaterialItem2 2062 68
+Item MaterialItem2 2070 35
 Item CraftItem apple 28
-Item MaterialItem2 2053 79
 Item CraftItem firefly 2
+Item CraftItem lump_of_clay 28
+Item MaterialItem2 2049 51
+Item CraftItem Stick 67
 Empty
 Empty
-Item MaterialItem2 2049 63
+Empty
+Empty
+Empty
+Empty
+Empty
 EndInventoryList
 List craft 9
 Empty
