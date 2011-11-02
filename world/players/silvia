@@ -4,41 +4,41 @@ clansModerator =
 craftresult_is_preview = true
 hp = 20
 name = silvia
-pitch = -17.7
-position = (-5553.71,879.4,-6345.79)
+pitch = -33.3
+position = (-5642.39,236.75,-6610.92)
 version = 1
-yaw = -83.47
+yaw = -239.08
 PlayerArgsEnd
 List main 32
-Item ToolItem MesePick 25676
-Item MaterialItem2 2058 54
-Item CraftItem lump_of_iron 10
-Item MaterialItem2 2057 8
-Item MaterialItem2 3 52
-Item MaterialItem2 2060 14
+Item ToolItem MesePick 0
+Item ToolItem SteelPick 0
+Item ToolItem SteelAxe 0
+Item ToolItem SteelShovel 0
+Item MaterialItem2 3 1
+Item MaterialItem2 2058 1
+Item MaterialItem2 2053 1
+Item MaterialItem2 0 1
+Item MaterialItem2 2057 1
+Item MaterialItem2 2063 1
 Item MaterialItem2 2066 1
-Empty
-Empty
-Item CraftItem lump_of_clay 99
-Item MaterialItem2 2057 99
-Item MaterialItem2 2062 47
-Item CraftItem lump_of_clay 42
-Item MaterialItem2 2056 8
-Item CraftItem lump_of_clay 99
-Item CraftItem lump_of_coal 13
-Item MaterialItem2 2049 5
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
+Item MaterialItem2 2065 1
+Item MaterialItem2 2049 1
+Item MaterialItem2 2050 1
+Item MaterialItem2 2064 1
+Item MaterialItem2 2067 1
+Item MaterialItem2 2068 1
+Item MaterialItem2 2060 1
+Item MaterialItem2 21 1
+Item MaterialItem2 30 1
+Item MaterialItem2 2052 1
+Item MaterialItem2 9 1
+Item MaterialItem2 2054 1
+Item MaterialItem2 15 1
+Item MaterialItem2 16 1
+Item MaterialItem2 14 1
+Item MaterialItem2 33 1
+Item MaterialItem2 2074 1
+Item MaterialItem2 34 1
 Empty
 Empty
 Empty
