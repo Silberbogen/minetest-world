@@ -4,43 +4,43 @@ clansModerator =
 craftresult_is_preview = true
 hp = 20
 name = saschakb
-pitch = -12.7
-position = (-6351.64,456.12,372.34)
+pitch = 9.47
+position = (583.72,25,-1134.1)
 version = 1
-yaw = -321.44
+yaw = 81.1499
 PlayerArgsEnd
 List main 32
-Item ToolItem MesePick 21119
-Item MaterialItem2 2069 3
-Item MaterialItem2 3 49
-Item MaterialItem2 2050 23
-Item MaterialItem2 2066 3
+Item ToolItem MesePick 32585
+Empty
+Item ToolItem MesePick 4606
+Item MaterialItem2 2050 24
+Item MaterialItem2 2066 2
 Item MaterialItem2 31 1
 Item MaterialItem2 2049 12
-Item CraftItem Stick 26
-Empty
-Item MaterialItem2 2057 85
-Item ToolItem MesePick 0
-Item CraftItem lump_of_coal 34
-Empty
-Empty
-Item MaterialItem2 2054 9
-Item MaterialItem2 2056 99
-Item MaterialItem2 2062 51
-Empty
-Item CraftItem rat 4
-Item MaterialItem2 2070 76
-Item CraftItem apple 28
-Item CraftItem firefly 2
+Item MaterialItem2 2061 4
+Item MaterialItem2 2069 3
+Item MaterialItem2 2053 72
+Item CraftItem steel_ingot 34
 Item CraftItem lump_of_clay 44
-Item MaterialItem2 2056 12
-Item MaterialItem2 2058 60
 Item MaterialItem2 2080 9
+Item MaterialItem2 2058 48
+Empty
+Item CraftItem Stick 14
+Item MaterialItem2 2056 12
+Item MaterialItem2 2056 91
 Empty
 Empty
-Item MaterialItem2 2053 23
-Item MaterialItem2 2050 99
-Item MaterialItem2 2061 1
+Empty
+Empty
+Empty
+Item MaterialItem2 2058 99
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
 Empty
 EndInventoryList
 List craft 9
